@@ -1572,7 +1572,7 @@ footer img {max-width: 156px;}
 .architecture-section{padding: 110px 90px 0}
 .architecture-section h2 {margin-top: 90px;}
 .architecture-bio:hover .architecture-details {opacity: 1; bottom: 50px}
-.architecture-details {position: absolute; opacity: 0; bottom: -250px; transition: all 400ms ease-out 0s; width: 60%; left: 0; right: 0; background: rgba(227,29,59,.9) }
+.architecture-details {position: absolute; opacity: 0; bottom: -250px; transition: all 400ms ease-out 0s; width: 60%; left: 0; right: 0; background: rgba(0,150, 205,.9) }
 .architecture-bio:hover .architecture-img img {transition: all .3s ease; -webkit-transition: all .3s ease; -moz-transition: all .3s ease;  -webkit-filter: grayscale(1); filter: grayscale(1);}
 .architecture-img img {transition: all 400ms ease-out 0s; position: relative; bottom: 0}
 
