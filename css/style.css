@@ -1,4 +1,4 @@
-﻿@charset "utf-8";
+@charset "utf-8";
 
 /* ----------------------------------
 
@@ -157,7 +157,7 @@ h1.page-title { margin:95px auto 0; width: 100%; }
 .transparent-blue-text{ color: rgba(0,239,255,.5) !important}
 .transparent-green-text{ color: rgba(0,255,151,.5) !important}
 .fast-green-text{ color: #85eea5 !important}
-.crimson-red-text { color: #e31d3b !important}
+.crimson-red-text { color: #0096cd !important}
 .deep-green-text { color: #1acd7b !important; }
 .deep-green-dark2-text{color: #6ad5a7 !important;}
 .deep-blue-text { color: #2283d4 !important; }
@@ -328,7 +328,7 @@ i { color: #9a9a9a; margin:0}
 .bg-fast-green{ background: #00ff97 !important}
 .bg-fast-blue { background: #00efff !important}
 .bg-fast-blue-green-gradiant { background: #00efff; background: -moz-linear-gradient(-45deg, #00efff 0%, #00ff97 100%); background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#00efff), color-stop(100%,#00ff97)); background: -webkit-linear-gradient(-45deg, #00efff 0%,#00ff97 100%); background: -o-linear-gradient(-45deg, #00efff 0%,#00ff97 100%); background: -ms-linear-gradient(-45deg, #00efff 0%,#00ff97 100%); background: linear-gradient(135deg, #00efff 0%,#00ff97 100%); filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00efff', endColorstr='#00ff97',GradientType=1 ); }
-.bg-crimson-red { background: #e31d3b !important}
+.bg-crimson-red { background: #0096cd !important}
 .bg-deep-green {background: #1acd7b !important; }
 .bg-deep-green2{background: #7ebaa1 !important;}
 .bg-deep-green-dark{background: #04b966 !important;}
@@ -803,7 +803,7 @@ nav.sidebar-nav .container { vertical-align: top; padding:60px 40px }
 .pull-menu .nav li {margin:10px 0; display: block; width: 100%}
 .pull-menu .navbar-nav a span { color: #a9a9a9; margin-right: 10px;}
 .pull-menu .navbar-nav li.active a { color: #000 !important}
-.pull-menu .navbar-nav li.active a span { color: #e31d3b !important}
+.pull-menu .navbar-nav li.active a span { color: #0096cd !important}
 .pull-menu .footer-social a i {font-size: 14px;}
 .pull-menu .footer-social a {margin: 0 15px !important}
 .pull-menu nav.shrink {background: #fff}
@@ -1080,7 +1080,7 @@ ul.portfolio-filter-tab-style-6 { margin: 220px 50px 0 0;}
 .tab-style-3 li:first-child a {padding-left: 0 }
 .tab-style-3 li a { border: 0 !important; color: #9b9b9b; padding: 5px 0}
 .tab-style-3 li a:hover {background: transparent}
-.tab-style-3 li a:hover, .tab-style-3 li.active a {border-bottom: 2px solid #e31d3b !important }
+.tab-style-3 li a:hover, .tab-style-3 li.active a {border-bottom: 2px solid #0096cd !important }
 
 /* tab - style 4 */
 .tab-style-4 ul {border: 1px solid rgba(0,0,0,.1)}
