@@ -295,7 +295,7 @@ i { color: #9a9a9a; margin:0}
 .bg-deep-yellow{ background: #c8a64b !important; }
 .bg-golden-yellow{ background: #ffd800 !important; }
 .bg-fast-yellow{ background: #fdd947 !important; }
-.bg-dark-gray{ background: #252525 !important; }
+.bg-dark-gray{ background: rgba(37,37,37,.6) !important; }
 .bg-mid-gray{ background: #d4d4d4 !important; }
 .bg-mid-gray2{ background: #b2b2b2 !important; }
 .bg-mid-gray3{ background: #e2e2e2 !important; }
